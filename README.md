@@ -1,8 +1,8 @@
 # CloudDrive - Your Cloud Storage Solution
 
-CloudDrive is a versatile desktop application that acts as a middleware between cloud storage providers and users. It enables users to seamlessly upload their files and photos to their preferred cloud storage platforms and access these files across multiple devices.
+CloudDrive is a versatile desktop application that acts as a middleware between cloud storage providers and users. It enables users to seamlessly upload their files and photos to their preferred cloud storage platforms (Ex. Filestack) and access these files across multiple devices.
 
-### To install the CloudDrive visit "Release" tab.
+### To install CloudDrive visit the "Release" tab.
 
 ## Features
 
